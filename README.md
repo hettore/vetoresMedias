@@ -11,8 +11,7 @@ Exemplo do comportamento dentro do console: <br>
 
 
 
-
-![Exemplo comportamento](https://user-images.githubusercontent.com/24979432/185213355-bc7ec70b-3595-4358-bfaf-158987a6c49d.png)  <br>
+![ALTURA](https://user-images.githubusercontent.com/24979432/185215116-88a37f9c-e9c5-4e3b-ba94-8e5e10e962f3.png) <br>
 
 Adicionei um passo a mais para mostrar o valor total dos produtos. <br>
 
