@@ -10,10 +10,12 @@ public class Program {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
+		System.out.println("Digite o tamanho do seu vetor: ");
 		int n = sc.nextInt();
 		double[] vect = new double [n];
 		
 		for (int i = 0; i < n; i++) {
+			System.out.println("Digite a altura: ");
 			vect[i] = sc.nextDouble();
 		}
 		
